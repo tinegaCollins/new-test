@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" errors="0" time="3.231">
+  <testsuite name="banking_app" errors="0" failures="0" skipped="0" timestamp="2023-02-19T13:20:20" time="2.021" tests="5">
+    <testcase classname="banking_app should render the initial UI as expected" name="banking_app should render the initial UI as expected" time="0.082">
+    </testcase>
+    <testcase classname="banking_app should filter the data by initial date" name="banking_app should filter the data by initial date" time="0.019">
+    </testcase>
+    <testcase classname="banking_app should sort the data on clicking the header" name="banking_app should sort the data on clicking the header" time="0.012">
+    </testcase>
+    <testcase classname="banking_app should show the correct data when sort and filter are done together" name="banking_app should show the correct data when sort and filter are done together" time="0.012">
+    </testcase>
+    <testcase classname="banking_app should not filter data when date is not selected" name="banking_app should not filter data when date is not selected" time="0.018">
+    </testcase>
+  </testsuite>
+</testsuites>
